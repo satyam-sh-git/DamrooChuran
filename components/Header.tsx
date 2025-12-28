@@ -28,7 +28,7 @@ const Header: React.FC<HeaderProps> = ({ cartCount, onCartClick, onShopNow }) =>
                 <img 
                   alt="Damroo Churan Text" 
                   className="h-[40px] w-auto object-contain pt-4" 
-                  src="https://github.com/satyam-sh-git/Web-dev/blob/main/assets/fotterlogo.png?raw=true"
+                  src="https://github.com/satyam-sh-git/Web-dev/blob/main/assets/headerlgo.png?raw=true"
                 />
               </div>
             </div>
