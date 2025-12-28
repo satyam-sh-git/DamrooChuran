@@ -59,7 +59,7 @@ const Hero: React.FC<HeroProps> = ({ onShopNow }) => {
               <img 
                 className="relative rounded-[32px] shadow-2xl w-full h-auto object-cover transform -rotate-2 hover:rotate-0 transition-transform duration-500" 
                 alt="Damroo Swadisht Churan Bottle" 
-                src="pictures/damrooochuran.jpg"
+                src="https://raw.githubusercontent.com/satyam-sh-git/Web-dev/refs/heads/main/assets/damrooochuran.jpg"
               />
               <div className="absolute -top-6 -right-6 bg-white p-4 rounded-2xl shadow-xl flex items-center gap-3 animate-bounce">
                 <span className="text-2xl">🌿</span>
